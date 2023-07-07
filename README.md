@@ -1,1 +1,2 @@
-# watson-assistant-lab2
+# Watson Assistant Actions Lab 2
+
